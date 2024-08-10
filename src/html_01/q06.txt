@@ -1,0 +1,26 @@
+ - Criando formulários
+
+ 1. Como a tag <form> é utilizada para criar formulários em HTML? Cite pelo menos três tipos
+diferentes de campos de entrada (<input>) que podem ser usados em um formulário.
+
+Resposta:
+
+A tag <form> cria formulários para coletar dados dos usuários. Três tipos de campos <input> são:
+
+Texto: <input type="text">
+Senha: <input type="password">
+Email: <input type="email">
+
+
+
+2. Além dos campos de entrada, quais outros elementos podem ser incluídos em um formulário para
+melhorar a usabilidade e a experiência do usuário?
+
+
+Resposta:
+
+Além dos campos de entrada, É possível incluir:
+
+Botões: <button> para enviar ou resetar o formulário.
+Rótulos: <label> para identificar campos.
+Textareas: <textarea> para entradas de texto longas.

@@ -1,0 +1,38 @@
+ - Vinculando páginas, arquivos e âncoras
+
+ 1. Como a tag <a> é utilizada para criar links em HTML? Explique como você pode vincular para outras
+páginas, para arquivos locais e criar âncoras dentro de uma página.
+
+Resposta:
+
+Vinculando para Outras Páginas: Atributo href com a URL da página de destino.
+
+Vinculando para Arquivos Locais: Atributo href com o caminho do arquivo local.
+
+Criando Âncoras Dentro de uma Página: Definição de um id no elemento de destino e 
+utilização de "#" seguido pelo valor desse id no atributo href do link.
+
+
+
+
+
+2. Além do atributo href, quais outros atributos importantes a tag <a> pode ter? Como o atributo
+target pode ser usado para controlar como o link é aberto pelo navegador?
+
+Resposta:
+
+target: Controla como o link é aberto (ex.: _blank abre em uma nova aba).
+rel: Define a relação entre o documento atual e o vinculado (ex.: nofollow).
+title: Fornece informações adicionais exibidas como dica de ferramenta.
+download: Indica que o link é para download de um arquivo.
+
+
+Uso do Atributo target
+O atributo target é usado para especificar onde abrir o link. Os valores comuns incluem:
+
+_blank: Abre o link em uma nova aba ou janela.
+_self: Abre o link na mesma aba ou janela (comportamento padrão).
+_parent: Abre o link na janela pai do frame atual.
+_top: Abre o link na janela inteira, substituindo qualquer frameset.
+
+

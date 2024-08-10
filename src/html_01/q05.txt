@@ -1,0 +1,27 @@
+ - Criando tabelas básicas
+
+ 1. Quais são as principais tags usadas para criar tabelas em HTML? Explique a diferença entre as tags
+<th> e <td>, e quando você as usaria.
+
+Resposta:
+
+As principais tags para criar tabelas em HTML são <table>, <tr>, <th>, <td>, <thead>, <tbody>, e <tfoot>
+
+<th>: Define uma célula de cabeçalho, geralmente usada no início de linhas ou colunas para descrever o
+ conteúdo das células abaixo ou ao lado.
+<td>: Define uma célula de dados, usada para inserir dados nas linhas da tabela.
+Use <th> para cabeçalhos e <td> para dados regulares
+
+
+
+2. Embora tabelas sejam usadas para exibir dados tabulares, às vezes é recomendado evitá-las em
+favor de outras formas de apresentação de dados. Por quê? E quais são os cenários em que as
+tabelas são apropriadas?
+
+Resposta:
+
+Tabelas podem ser evitadas porque podem dificultar a responsividade e acessibilidade em dispositivos móveis.
+Alternativas como listas ou divs com CSS flexbox/grid são mais flexíveis.
+
+Tabelas são apropriadas quando se precisa exibir dados tabulares claros, como 
+horários, preços ou comparações de produtos.

@@ -1,0 +1,28 @@
+ - Técnicas avançadas de estruturação com elementos HTML5 semânticos
+
+ 1. O que são elementos HTML5 semânticos e por que são importantes na estruturação de uma
+página? Cite três exemplos de elementos semânticos e explique quando você os usaria.
+
+Resposta:
+
+Elementos HTML5 semânticos descrevem claramente seu propósito, facilitando a leitura e interpretação por humanos e máquinas. 
+Eles melhoram a acessibilidade e SEO.
+
+Três exemplos:
+
+<header>: Usado para cabeçalhos de páginas ou seções.
+<article>: Para conteúdos independentes, como posts de blog.
+<footer>: Para rodapés de páginas ou seções
+
+
+
+2. Além da semântica, como os elementos HTML5 podem afetar a acessibilidade das páginas web? Por
+que é fundamental considerar a acessibilidade ao escolher elementos de estruturação?
+
+Resposta:
+
+Elementos HTML5 semânticos melhoram a acessibilidade ao fornecer uma estrutura clara e significativa, facilitando 
+a navegação por leitores de tela e outros dispositivos assistivos.
+
+Considerar a acessibilidade é fundamental para garantir que todos os usuários, incluindo aqueles
+com deficiências, possam acessar e interagir com o conteúdo da página de forma eficaz.

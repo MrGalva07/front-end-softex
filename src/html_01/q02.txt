@@ -1,0 +1,50 @@
+ - Identificando tags HTML básicas
+
+ 1. Cite três tags HTML básicas e explique o propósito de cada uma delas. Dê exemplos de situações em
+que você as usaria ao construir uma página web.
+
+Resposta:
+
+ - <h1> a <h6>: Títulos
+Propósito: As tags de título (<h1> a <h6>) são usadas para definir títulos e subtítulos em uma página web.
+ <h1> é o título mais importante, enquanto <h6> é o menos importante.
+
+Situação de uso: Usaria essas tags para organizar o conteúdo da sua página em seções claras e
+ hierárquicas, facilitando a leitura e a navegação.
+
+
+ - <p>: Parágrafo
+Propósito: A tag <p> é usada para definir um parágrafo de texto. 
+Ela agrupa blocos de texto em uma estrutura lógica e legível.
+
+Situação de uso: Usaria a tag <p> para qualquer bloco de texto que precise ser separado de outros
+blocos, como descrições, artigos ou qualquer outro tipo de conteúdo textual.
+
+- <a>: Link
+Propósito: A tag <a> é usada para criar hyperlinks, que permitem aos usuários navegar para outras páginas
+ ou recursos na web.
+
+Situação de uso: Usaria a tag <a> para criar links para outras páginas do site, para sites externos,
+ ou para permitir que os usuários baixem arquivos.
+
+
+
+
+2. Além das tags mencionadas, qual é a importância das tags de listagem, como <ul> e <ol>, no
+contexto da estruturação de conteúdo em uma página? Dê exemplos de quando você escolheria
+uma sobre a outra.
+
+Resposta:
+
+
+<ul> (Lista Não Ordenada): Usada para listas onde a ordem dos itens não é importante. 
+Os itens são geralmente marcados com bullets (pontos).
+Exemplo de uso: Listar características de um produto.
+
+<ol> (Lista Ordenada): Usada para listas onde a ordem dos itens é importante. Os itens são numerados.
+Exemplo de uso: Instruções passo a passo.
+
+
+Quando Escolher uma sobre a Outra
+<ul>: Quando a sequência dos itens não importa. Por exemplo, uma lista de ingredientes para uma receita.
+<ol>: Quando a sequência dos itens é crucial. Por exemplo, etapas para montar um móvel.

@@ -1,0 +1,27 @@
+ - Incorporando imagens e mídias
+
+ 1. Descreva a diferença entre os atributos src e alt em relação à tag <img>. Por que é importante
+fornecer um atributo alt adequado para imagens?
+
+Resposta:
+
+Diferença entre src e alt na Tag <img>
+src: Especifica o caminho da imagem.
+alt: Fornece um texto alternativo que descreve a imagem.
+Importância do alt
+Acessibilidade: Ajuda usuários com deficiência visual.
+SEO: Melhora a indexação por motores de busca.
+Experiência do Usuário: Garante informações mesmo se a imagem não carregar.
+
+2. Além de imagens, quais outros tipos de mídia podem ser incorporados em uma página HTML?
+Como você pode garantir que a mídia incorporada seja responsiva e se ajuste bem em diferentes
+dispositivos?
+
+Resposta:
+
+Além de imagens, é possível incorporar vídeos, áudios, PDFs, SVGs e outras
+ páginas web usando tags como <video>, <audio>, <embed>, <object> e <iframe>12.
+
+Para garantir que a mídia seja responsiva, é possível utilizar o CSS para definir
+tamanhos relativos (como porcentagens) e utilize media queries para ajustar o layout 
+em diferentes dispositivos

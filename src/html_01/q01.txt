@@ -1,0 +1,45 @@
+- Conhecendo o HTML e sua estrutura básica
+
+1. O que é o HTML e qual é o seu papel na construção de páginas web? Descreva brevemente a
+estrutura básica de um documento HTML.
+
+Resposta:
+HTML(Linguagem de Marcação de Hipertexto), é a linguagem padrão usada para criar e estruturar páginas na web.
+Ele permite que os desenvolvedores definam a estrutura e o conteúdo de um documento, organizando
+informações e formatando-as para que os navegadores possam exibi-las corretamente.
+
+
+Estrutura Básica de um Documento HTML
+Um documento HTML básico é composto por várias partes essenciais:
+
+<!DOCTYPE html>: Declaração que define o tipo de documento e a versão do HTML.
+<html>: Elemento raiz que envolve todo o conteúdo da página.
+<head>: Contém metadados sobre o documento, como o título da página, links para folhas de estilo e scripts.
+<title>: Define o título da página, que aparece na aba do navegador.
+<body>: Contém todo o conteúdo visível da página, como textos, imagens, links, etc.
+
+
+
+
+2. Como o HTML se relaciona com outras tecnologias da web, como o CSS e o JavaScript? Como essas
+três tecnologias trabalham em conjunto para criar páginas web interativas e estilizadas?
+
+Resposta:
+
+HTML (HyperText Markup Language): É a base de qualquer página web. 
+Ele define a estrutura e o conteúdo da página, como títulos, parágrafos, links, imagens, etc.
+Pode ser considerado o "esqueleto da página"
+
+CSS (Cascading Style Sheets): É usado para estilizar o conteúdo definido pelo HTML.
+Com o CSS, você pode controlar cores, fontes, espaçamento, layout e outros aspectos visuais da página.
+
+JavaScript: Adiciona interatividade e comportamento dinâmico à página.
+ Com JavaScript, é possível criar elementos interativos como sliders, formulários dinâmicos, animações e muito mais.
+Ele é como o “cérebro” que dá vida à página, permitindo que ela responda às ações do usuário.
+
+
+Como Elas Trabalham Juntas?
+
+HTML: fornece a estrutura básica da página.
+CSS: estiliza essa estrutura, tornando-a visualmente atraente.
+JavaScript: adiciona interatividade, permitindo que a página responda às ações do usuário.
